@@ -226,3 +226,106 @@ text-align: center;
     width: 268px;
     height: 74.23px;
 }
+
+.team{
+    height: 100vh;
+    margin-top: 70px;
+}
+.team-heading {
+    font-family: Outfit;
+font-size: 49px;
+font-weight: 600;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: left;
+margin: 0;
+}
+.team-textwrapper{
+    margin-left: 100px;
+}
+
+.team-text{
+    font-family: Outfit;
+font-size: 28px;
+font-weight: 400;
+/* line-height: 39px; */
+letter-spacing: 0em;
+text-align: left;
+width:34.125rem;
+}
+.team-line{
+    position: relative;
+/* width: 720.22px;
+height: 537.94px; */
+left: 190px;
+top: -270px;
+z-index: -1;
+
+/* border: 1px solid #000000; */
+transform: rotate(-1deg);
+}
+
+.line-text{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    z-index: -1;
+}
+.line-text h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 100px;
+color: #2B6036;
+margin: 0;
+
+}
+
+.line-text p{
+font-family: Outfit;
+font-size: 28px;
+font-weight: 400;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: center;
+margin: 0;
+}
+
+.first{
+position: relative;
+width: 220px;
+height: 85px;
+left: 36px;
+top: -370px;
+
+}
+
+.second{
+position: relative;
+width: 105px;
+height: 137px;
+left: 600px;
+top: -450px;
+
+}
+
+.second p{
+    margin-top: 4rem;
+}
+
+.third{
+    position: relative;
+width: 178px;
+height: 85px;
+left: 980px;
+top: -1078px;
+}
+
+.team-image{
+    position: relative;
+    left:845px;
+    top:-1070px;
+    z-index: -1;
+}
