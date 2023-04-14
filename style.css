@@ -60,6 +60,7 @@ header{
     background-color: black;
     border-radius: 74px;
     padding: 12px;
+    margin-right: 1rem;
 }
 
 .toggle-button{
