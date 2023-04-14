@@ -155,7 +155,7 @@ text-align: left;
     background-color: var(--black);
     color: white;
     font-family: Poppins;
-font-size: 34px;
+font-size: 28px;
 font-weight: 600;
 line-height: 59px;
 letter-spacing: 0em;
@@ -163,7 +163,7 @@ text-align: center;
 border-radius: 30.25px;
 /* width: 320px;
 height: 99.35px; */
-padding: 1rem 1.5rem;
+padding: 0.5rem 1.2rem;
 
 
 }
