@@ -424,8 +424,9 @@ text-align: left;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 
-padding: 2px;
+padding: 0.1rem;
 width: 40%;
 border-radius:0 22px 22px 0;
 
